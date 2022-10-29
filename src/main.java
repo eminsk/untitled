@@ -1,0 +1,11 @@
+import java.sql.SQLOutput;
+
+public class main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        System.out.println("My name is Nikolay.");
+        System.out.println(5+10);
+        System.out.println(" -> ");
+    }
+}
